@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Анастасия Ананьева](https://up.htmlacademy.ru/adaptive/26/user/1970597).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Панасюк](https://htmlacademy.ru/profile/sasha_oldsport).
 
 ---
 
